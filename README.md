@@ -7,3 +7,5 @@
 ## その他
 
 - [評価](./documents/evaluation.md)
+
+- [エンジニアの方向性の間違い](./documents/direction.md)
